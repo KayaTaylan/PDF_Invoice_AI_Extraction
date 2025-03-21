@@ -1,0 +1,92 @@
+[
+    {
+        "page": 1,
+        "extracted_data": [
+            {
+                "text": "460.64.",
+                "label": "NEULEISTUNG"
+            }
+        ]
+    },
+    {
+        "page": 2,
+        "extracted_data": [
+            {
+                "text": "921.42.",
+                "label": "NEULEISTUNG"
+            }
+        ]
+    },
+    {
+        "page": 3,
+        "extracted_data": [
+            {
+                "text": "489.99.",
+                "label": "NEULEISTUNG"
+            }
+        ]
+    },
+    {
+        "page": 4,
+        "extracted_data": [
+            {
+                "text": "266.60.",
+                "label": "NEULEISTUNG"
+            }
+        ]
+    },
+    {
+        "page": 5,
+        "extracted_data": [
+            {
+                "text": "058.83.",
+                "label": "NEULEISTUNG"
+            }
+        ]
+    },
+    {
+        "page": 6,
+        "extracted_data": [
+            {
+                "text": "132.87.",
+                "label": "NEULEISTUNG"
+            }
+        ]
+    },
+    {
+        "page": 7,
+        "extracted_data": [
+            {
+                "text": "747.70.",
+                "label": "NEULEISTUNG"
+            }
+        ]
+    },
+    {
+        "page": 8,
+        "extracted_data": [
+            {
+                "text": "108.53.",
+                "label": "NEULEISTUNG"
+            }
+        ]
+    },
+    {
+        "page": 9,
+        "extracted_data": [
+            {
+                "text": "507.56.",
+                "label": "NEULEISTUNG"
+            }
+        ]
+    },
+    {
+        "page": 10,
+        "extracted_data": [
+            {
+                "text": "480.35.",
+                "label": "NEULEISTUNG"
+            }
+        ]
+    }
+]
