@@ -1,0 +1,16 @@
+[
+  {
+    "text": "002.01.\nRaumgerüste\n720,000 m³\n7,80\n417,600\n3.257,28\n0,00\n417,600\n3.257,28\n",
+    "labels": [
+      {"start": 0, "end": 6, "label": "ORDNUNGSZAHL"},
+      {"start": 9, "end": 19, "label": "LEISTUNGSBESCHREIBUNG"},
+      {"start": 22, "end": 28, "label": "LV-MENGE"},
+      {"start": 34, "end": 37, "label": "EINHEITSPREIS"},
+      {"start": 40, "end": 46, "label": "MENGE-ALT"},
+      {"start": 49, "end": 56, "label": "ALTLEISTUNG"},
+      {"start": 59, "end": 62, "label": "NEULEISTUNG"},
+      {"start": 65, "end": 71, "label": "RE-MENGE"},
+     {"start": 74, "end": 81, "label": "GESAMTBETRAG"}
+    ]
+  }
+]
